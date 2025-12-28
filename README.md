@@ -45,13 +45,7 @@
 
 ### 📈 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Munawarhussain729&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munawarhussain729&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munawarhussain729&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munawarhussain729&layout=compact&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Munawarhussain729&theme=radical)
 
 ---
 <!--
@@ -102,6 +96,8 @@
 
 <!-- Contribution Graph -->
 <p align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Munawarhussain729&theme=radical)
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Munawarhussain729&theme=radical&utcOffset=4" alt="Contribution Graph" />
 </p>
 
