@@ -50,6 +50,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munawarhussain729&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munawarhussain729&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munawarhussain729&layout=compact&theme=radical)
+
 ---
 <!--
 ### 🧑‍💻 Featured Projects
